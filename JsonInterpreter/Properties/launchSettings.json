@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonInterpretor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Profiles\\Saege\\workspace\\JsonInterpretor\\JsonInterpretor\\Test.json\" \"//Array[Name = 'Name1']/Wert\" \"//Array[Name = 'Name2']/Wert\""
+    }
+  }
+}
